@@ -1,0 +1,521 @@
+Aditya Kulshrestha Ó +91 78408 69129 R hello@adikul.dev
+® adikul.dev ¯ /in/adikul358  /adikul358
+Education
+SRM Institute of Science and Technology Kattankulathur, IN
+Bachelor’s of Technology, Computer Science and Engineering with Software Engineering 2023 – 2027
+CGPA: 9.5/10
+Experience
+Skilzen Bengaluru, IN (Remote)
+Project Head Jun 2022 – Aug 2022
+■ Led team of 8 developer interns and established Git version control guidelines.
+■ Migrated the product’s codebase from JavaScript to TypeScript for large scale type safety and type documentation.
+■ Worked closely with the founder to plan project timelines.
+■ Developed automated CI/CD pipelines using Github Actions.
+Backend Engineer Intern May 2022 – Jun 2022
+■ Wrote the backend for an ed-tech website using Next.js, Directus, and MySQL.
+■ Designed database schemas for multiple products using MySQL Workbench.
+■ Setup and maintained Directus and Ghost headless CMS for the content writers.
+■ Designed and deployed AWS architecture for multiple production and internal programs using EC2, RDS, and R53.
+■ Worked with the frontend team to adhere designs to modern web design guidelines.
+Shiv Nadar School Noida, IN
+Lead Web Developer Jun 2020 – Out 2020
+■ Developed a website to digitise the school’s annual national arts festival using Express, Handlebars, and Semantic UI.
+■ Co-designed an exhaustive design system to collate the festival’s colours and fonts using Figma.
+■ Setup a CI pipeline using Bash and Cron jobs on Ubuntu Server.
+■ Setup a mail server using Postfix, Dovecot, and Gmail IMAP for official communications for multiple teams.
+Full Stack Developer Aug 2019 – Aug 2019
+■ Developed a website to conduct weekly quizzes by the STEM club using Bootstrap, PHP, and MySQL.
+■ Developed a secure admin dashboard to evaluate student performances and add questions using JavaScript and JSCharts.
+Projects
+CINTEL VLabs | JavaScript, HTML Canvas, CSS Jan 2024 – Feb 2024
+■ VLabs provides students a virtual demonstration of producer-consumer programming design.
+■ Generates canvas graphics according to count and delay parameters and provides practice questions.
+■ Developed under Department of Computational Intelligence, SRMIST in collaboration with IIT Madras.
+ChocoLush | React Native, Swift, Java, Medusa, TypeScript Jun 2023 – Jul 2023
+■ Architected a complete digital solution for a family chocolatier business.
+■ Developed a cross-platform mobile app for selling products using React Native and Medusa; and a website using Next.js.
+■ Designed a brand identity with a refreshed logo using Figma.
+VEL | Python, Flask, React, ICS, TailwindCSS Jun 2021 – Nov 2021
+■ VEL is a web app that generates ICS files students can import into their digital calendar.
+■ Converts Excel sheet timetables in the school’s template to ICS files according to students’ classes.
+■ Provides students well-organised classes with native calendar support such as push notifications and online meeting links.
+Certifications
+Postman API Fundamentals Student Expert, Postman Oct 2023
+AWS Academy Graduate - AWS Academy Cloud Architecting, AWS Academy Oct 2023
+AWS Academy Graduate - AWS Academy Cloud Foundations, AWS Academy Oct 2023
+Google Cloud Computing Foundations: Infrastructure in Google Cloud, Google Sep 2023
+Google Cloud Computing Foundations: Cloud Computing Fundamentals, Google Sep 2023
+Technical Skills
+Languages: TypeScript, JavaScript, Python, C, C++, Bash, LaTeX
+Frameworks: NextJS, React, React Native, Node.js, Flask, TailwindCSS,
+Developer Tools: Git, AWS, Google Cloud Platform, VS Code, Figma, Postman, Ubuntu Server, Clion
+
+
+
+
+Neel Bhalla
+Interests in Web Application, Cloud and Distributed Systems,
+Robotics, and Machine Learning
+NeelBhallaBos@gmail.com
+(978) 831 8115
+Linkedin ⇗ NeelBhalla2021
+GitHub ⇗ ashdawngary
+EXPERIENCE
+Chewy, Boston, MA Feb 2023 - Present
+Software Engineer 1
+Worked within the Customer Service Vertical for the CSR Buddy team, a full
+stack application that provides Customer Service Reps with the ability to
+check, service, and perform actions for Chewy Customer Accounts.
+Participated in the agile process, working on tickets and epics. Architected
+new pages and functionality from new integration points such as Chewy’s
+VAMS (Veterinary Management System) and Account Systems (for Social
+Logins). The new pages equipped CSR with more data decreasing vet-diet
+based contact transfer rates by 26%. Wrote unit tests with
+jest+react-testing-library to increase code coverage from (45% to 65%),
+decreasing tech debt. Also architected the b layer touchpoints which provide
+the front-end data.
+Managed and Deployed releases to the Alpha Production Environment as a
+Release manager, working with Jenkins, AWS (ECS), and terraform.
+Performed bookkeeping of tickets and feature flags through confluence and
+validated Releases as non breaking through datadog and splunk.
+Architected and implemented NMA-Chat, a mobile solution for facilitating
+chats with Chewy Mobile within the App through a hybrid experience. The
+application was architected with Typescript and Next.JS, embedded in the
+mobile platform as a hybrid experience. The application, to be deployed by
+late November, is forecasted to service nearly 3,000 chats per day with
+customers through the mobile ingress point alone.
+Raytheon Technologies, Tewskbury, MA June 2022 - Aug 2022
+Summer Intern
+Worked for the Systems Integration and Test Group with Security Clearance.
+Developed object oriented radar tools in Lua, Matlab. Tested and verified
+tools against requirements using Jenkins (CI/CD).
+Chewy, Boston, MA Jan 2022 - June 2022
+SDE Co-op
+Work in an agile development environment, collaborating with Backend and
+QA teams to develop web apps for the Shelter and Rescue team. Developed
+Vue components to improve user experience. Used Datadog and Splunk for
+application monitoring and debugging. Deployed features in a Jenkins (CI/CD)
+pipeline. Developed backend features in Java Spring Boot framework.
+Developed a web-based AR application that allows users to view select Chewy
+products embedded in 3D space via WebXR and Three.js. Developed
+functionality to rotate and move the object and implemented UI links to
+Product Display pages.
+EDUCATION
+University of Illinois,
+Urbana-Champaign
+Grainger College of Engineering
+M.S. Computer Science
+Expected, May 2024
+Northeastern University, Boston MA
+Khoury College of Computer Sciences
+B.S. Computer Science and Mathematics
+and Minor: Robotics Engineering
+Sep 2020 - Dec 2022
+.
+SKILLS
+Languages: Typescript, Javascript, Java spring
+boot, Terraform, C++, Matlab
+Familiar: RUST
+Databases: MySQL, postgresql
+Frontend Frameworks: Vue, React, Next,js,
+Nest.js, Three.js
+Frameworks: Bootstrap, Angular, Django,
+Spring Boot, Jest, Docker
+App Development : Xcode (IOS), Android
+Studio (Android)
+Agile Tools - Confluence, JIRA, Github(Issues
++ Actions)
+Software Development Tools - Datadog,
+Splunk, Postman, BitBucket, Github, Scrum,
+Jenkins, Selenium Webdriver, Web tools,
+Gitlab
+ML Frameworks - Graphlab, TensorFlow
+Hardware - Raspberry Pi, ARM, Arduino,
+Android controller
+Communication Protocol - TCP/IP, I2C
+AWARDS
+Winner, Congressional App Challenge, 2018
+Platinum Rank in USA Computing Olympiad,
+2018-2019
+Codeforces Expert Rank (1688), 2018
+Hacker Cup, Qualification Round(274th), 2021
+Dean List, Northeastern University, 2021
+Winner, FTC Robotics World Championship,
+2018
+Northeastern University, Boston, MA Sep 2021 - Present
+Sandbox Software Developer
+Developed Khoury Office web application React, Next.Js frontend and Nest.Js
+bankend. Designed to enhance the student online office hours experience.
+Developed test automation suite in Jest and Cypress frameworks.
+Northeastern University, Boston, MA Jan 2021 - Present
+Head Teaching Assistant
+Teaching Assistant for CS 2500 (Computer Fundamentals) and CS 3800
+Theory of Computation Course. Mentored and answered questions to help
+students conceptualize the course content.
+Raytheon Technologies, Tewskbury, MA June 2021 - August 2021
+Summer Intern
+Worked for the Systems Integration and Test Group with Security Clearance.
+Developed object oriented radar tools in Lua, Matlab. Tested and verified
+tools against requirements using Jenkins (CI/CD).
+Oneso Technology, Burlington, MA June 2020 -March 2021
+Software Developer
+Implemented file readers for Xpatch ( a radar simulation tool ) in Python.
+Developing machine learning experiments to identify targets in radar images.
+Modern Smiles Dental Care, Burlington, MA Sep 2019 - June 2020
+IT Staff
+Maintained machines, network, printers and software at a Dental office.
+Debugged and fixed IT issues as needed.
+Draper, Cambridge, MA July 2018 - Aug 2018
+Summer Intern
+Developed software for the Snapdragon Drone UAV. Software was developed
+in Python/Tkinter on Linux and communicated with the ROS on the UAV.
+PROJECTS
+Northeastern CS Research, Boston, MA Oct 2021 - Present
+Working with Prof. Octavia Camps to research neural network modules for
+Computer Vision Systems. The research seeks to develop a set of structured
+layers to current deep architectures, designed using dynamical systems
+theory and statistics fundamentals, which capture spatio-temporal
+information across multiple scales.
+MIT CS Prime Research, Cambridge, MA Jan 2019 - Aug 2020
+Developing distributed end-to-end tracing algorithms for root cause analysis
+of cloud based applications using timely data flow and graph abstraction.
+
+
+
+Nityam Sharma
+Flutter Developer
+nityamsharma02@gmail.com +919056282368 linkedin.com/in/nityamsharma-cse
+https://github.com/SharmaNityam
+Profile
+I'm a smart and eager student with a passion for
+computer science, driven by the art of transforming
+imaginative concepts into practical and user-centered
+solutions. Currently immersing myself in learning
+Flutter, I am enthusiastic about gaining hands-on
+experience and contributing to real-world projects. My
+approach is rooted in attentiveness, receptiveness, and
+a genuine excitement to collaborate on finding effective
+and actionable solutions to present-day challenges.
+Education
+SRM Institute of Science & Technology, B.Tech CSE
+Secured 9.05/10.00 CGPA in First Semester
+Professional Experience
+Kreative Tech, Flutter Developer Intern
+Hands-on experience in mobile app development,
+with a keen focus on seamlessly integrating APIs and
+crafting robust, production-grade applications for
+optimal user experience.
+Skills
+App development
+Flutter
+Backend development
+Firebase
+Other tools
+Figma | VS Code
+Languages
+C | C++ | Python | HTML | CSS
+Volunteering
+Dbug Labs, Associate Lead
+Building projects and workshops in app dev domain,
+ensuring alignment with goals, and maintaining
+quality standards.
+Projects
+Grocery App
+Developed a dynamic grocery store mobile application
+using Flutter, providing users with an intuitive
+platform to browse and purchase groceries
+effortlessly. Implemented state-of-the art features
+including real-time cart updates and a visually
+appealing user interface.
+E-commerce Sneaker Shop App
+The E-commerce Sneaker Shop app is a mobile
+application designed to simplify sneaker shopping.
+Using Flutter and Provider, it offers seamless crossplatform compatibility. Users can browse, add items to
+the cart, and checkout effortlessly.
+To Do App
+A flutter app leveraging GetX for state management,
+designed for efficient note-taking. Allows users to
+create, update, and delete notes, with persistent
+storage for seamless user experience.
+NFT App
+Developed using Flutter, this NFT Explorer app
+simplifies the exploration of Non-Fungible Tokens
+(NFTs) with intuitive navigation and visually appealing
+card layouts. Users can effortlessly browse through
+trending and recent NFT collections, gaining insights
+into digital assets with ease. The app facilitates
+seamless note-taking, allowing users to create,
+update, and delete notes, ensuring a smooth and
+efficient user experience.
+Hackathon
+Genesis Hackathon, TPHxSRM
+During a recent hackathon, I crafted two cutting-edge
+applications. The first, leveraging Flutter, offers a
+seamless integration of Metamask functionality,
+empowering users with a secure platform for
+Ethereum transactions and interactions presented
+through an intuitive interface.
+Additionally, I developed a cryptocurrency wallet
+management application that ensures robust security
+measures for token generation, verification, and
+transactions. This app also provides users with
+comprehensive insights into their wallet assets,
+including NFTs, further enhancing their digital asset
+management experience.
+
+
+
+Shaurya Singh Srinet
+Software Development Engineer
+shauryasrinet@gmail.com 9999847323 Chennai, IN Portfolio Linkedin
+Github
+PROFESSIONAL EXPERIENCE
+Stick & Dot, AI/ML Developer
+December 2023 – present | Bengaluru, IN
+•Spearheading AI/ML projects, leveraging
+cutting-edge technologies to drive innovation.
+ONEMi.in (Kissht.com), Data Analytics Intern
+February 2023 – May 2023 | Mumbai, IN
+•Analyzed user data to determine loan types,
+delinquency rates, and segmentation based on
+various criteria. Also, compared ticket size and
+loan frequency with industry standards for
+strategic insights.
+•Led the conversion of an R project to Python,
+enhancing team compatibility and efficiency.
+The Sparks Foundation,
+IoT & Computer Vision Intern
+April 2022 – May 2022 | Singapore, SG
+•Applied expertise in areas including image
+processing, object detection, and sensor
+integration.
+PROJECTS
+Human Detector
+Developed a versatile Python-based tool for realtime human detection and counting using the
+Faster R-CNN Inception v2 model.
+Smart Classroom for SRM Tech Park
+Developed an IoT-driven building solution toward
+an energy-automated environment.
+LifeLink
+Developed a pivotal platform for managing and
+streamlining the organ donation and transplant
+process.
+EDUCATION
+B. Tech CSE with specialization in IoT, SRM
+Institute of Science and Technology,
+Kattankulathur
+2021 – present | Kattankulathur, IN
+CGPA - 9.39
+SKILLS
+Internet of Things
+Sensors | Protocols | Networks | AWS IoT | IoT
+Security | Edge Computing
+AI/ML
+Tensorflow | Keras | OpenCV | Deep Learning |
+Data Analytics | NLP
+DevOps
+AWS | Terraform | Ansible | Kubernetes | Docker |
+CI/CD | Jenkins
+Languages
+Python | C | C++ | SQL | HTML | JavaScript
+Other
+MySQL | Flask | Node.js | DSA| Prompt
+Engineering
+HACKATHONS AND COMPETITIONS
+IoT Expo'23, ASEAN-India Science, Technology
+& Innovation Cooperation
+Won 3rd prize in successfully creating a smart
+dustbin revolutionizing smart waste management
+of our college.
+HackTrix Hackathon, IEEE SRM SB
+Won Special Prize - "Best Product Design" for
+developing a real-time sign language translation
+application
+
+
+
+Education
+SRM Institute of Science & Technology, B.tech CSE
+CGPA - 9.34
+Professional Experience
+Ionio.ai, Software Development Engineer
+•Involved in mobile application development projects
+which are mainly SaaS in nature. My job is mainly to
+integrate ML models with the mobile apps and do the
+backend of the same.
+Climec Labs, SDE Intern
+•Developed Flutter-based IoT app for air purifiers,
+enabling users to remotely control their devices and
+monitor air quality.
+Swift Money, SDE Intern
+•Involved in the design and development of their own
+application which is a finance advisor app in nature.
+Pregamate, App Development Intern
+•Maintaining the iOS version of the official app
+The Deeva, Full Stack App Developer
+•Involved in developing their new project's app version.
+Leading a team of 3 development interns.
+•Developing the application using Flutter and Supabase.
+TechRange, iOS Development Intern
+•I was involved in testing their existing application by
+utilizing concepts of unit testing. I used XCTest
+Framework for the same
+Projects
+SignWave, SwiftUI | Flutter | Firebase
+•A sign language translator that takes video as input and
+uses machine learning to recognize signs, converting
+them into text.
+Lupus.ai, Flutter | Supabase
+•Lupus AI is a state-of-the-art financial protection system.
+Our mission is to revolutionize fraud detection and
+prevention, ensuring the safety and security of your
+hard-earned wealth.
+Faded Flavours, SwiftUI | Mongo DB
+• The platform is user-friendly and provides an easy way
+for users to access lost recipes. Users can search for
+recipes based on various criteria.
+TymPe, Flutter | Supabase
+•Experience seamless tracking of time, efficient
+budgeting, and scheduled payment reminders, all
+wrapped in a beautifully designed user interface.
+Skills
+App Development
+Flutter | SwiftUI | React Native | Kotlin
+Backend Development
+NodeJS | MongoDB | Firebase | Supabase | Appwrite
+Web Development
+ReactJS | NextJS | AstroJS | ThreeJS
+Other Tools
+Figma | VS Code | Xcode | Linux | Prompt Engineering
+Languages
+C | C++ | Python | HTML | CSS | Javascript | DS Algo
+Volunteering
+Dbug Labs SRM, Founder & Technical Lead
+Handling the whole student community's operations as
+well as projects being done under all the domains. Working
+on outsourced projects too.
+Microsoft Learn Student Ambassadors SRM,
+Technical Lead
+Building projects and workshops, ensuring alignment with
+goals, and maintaining quality standards. I mentor
+members, facilitate skill development through workshops,
+manage resources.
+The Product House SRMIST, App Development Lead
+Involved in several opensource projects, also training all
+the newbies with the latest technologies to implement in
+app development.
+Swift Coding Club SRM, App Development Lead
+Involved in several opensource projects, also training all
+the newbies with the latest technologies to implement in
+app development.
+GenY SRM, App Developer
+Involved in projects of the community, also involved in
+inter-domain projects.
+Hackathons & Competitions
+Portfolio Hacks, MLH
+Participated in the hackathon, and developed a project on
+finance and money asset management as well as a fraud
+detection system. Also, we made this app totally with the
+help of opensource stacks like Supabase & stuff.
+Layer 0, Blockchain Club SRM
+Participated in the Hackathon and made signwave, an
+extraordinary sign language to audio converter
+Bon Hacketit, MLH
+Participated in the hackathon & developed a project called
+which helps people to find lost recipes with the help of an
+app.
+Shinjan Patra
+Software Development Engineer
+Chennai, IN srikpatra.2008@gmail.com Github Linkedin
+2022 – Present | Kattankulathur, IN
+Nov 2023 – present | Delaware, US
+Jul 2023 – Sep 2023 | Chennai, IN
+Jun 2023 – Sep 2023 | Pune, IN
+Jun 2023 – Jul 2023 | Delhi, IN
+Apr 2023 – present | Chennai, IN
+Mar 2023 – May 2023 | Bangalore, IN
+
+
+Surya Mallikarjuna Shivaji Balijepalli 	Email: bsmshivaji94@gmail.com
+Contact Number: +91-9618187761
+EDUCATION
+•	Indian Institute of Technology	Jammu, India
+Master of Technology - Computer Science & Engineering	June 2019 - June 2021
+
+•	Mahatma Gandhi Institute of Technology	Hyderabad, India
+Bachelor of Technology - Computer Science & Engineering	September 2012 - May 2016
+SKILLS SUMMARY
+•	Languages: Python 3.x, Java
+•	Test Automation Frameworks: Robot, Pytest
+•	Database Querying Languages: MySQL, Microsoft SQL Server
+•	Data Analytics Tools: Microsoft Excel
+•	Containerization Tools: Kubernetes, Docker
+•	Operating System Environments: Linux, Open Networking Linux, Windows, Junos, OcNOS
+•	Networking Devices: Spirent Traffic Generator, Juniper Switches, Delta Switches
+•	Networking Protocols: TCP/IP, UDP, DHCP, IGMP, PPPoE, NETCONF, LACP,VLAN,L2/L3 Networking
+•	Optical Network Hardware: Optical Line Termination units - Edgecore,Tibit, Optical Network Unit - Alpha
+•	Networking Devices: Spirent Traffic Generator, Juniper Switches, Delta Switches
+PROFESSIONAL EXPERIENCE
+•	Fujistu Research of India Private Limited	Bengaluru
+Assistant Software Developer - QA team, Fujitsu Network Communications	December 2022 - Present
+◦	Test Case Development & Test Strategy Planning:
+∗ Delved into the technical specifications of the Non-Real Time Radio Access Network Intelligent Controller (Non-RT RIC) to comprehend the functionalities of the R1 interface, A1 interface, as well as the O1 and O2 interfaces, Service Management and Exposure (SME) and Data Management and Exposure (DME).
+∗ Engaged and led discussions with product owners and developers to understand the scope of development.
+∗ Engaged and led discussions among the Quality Assurance team members to plan the test case development and test strategy.
+∗ Ensured successful completion of test case development within timelines, presented the developed test cases to individual module owners and developers.
+∗ Collaborated and communicated effectively regarding the testing expectations from every feature.
+∗ Engaged in design discussions to gain insights into the planned implementation of the feature.
+∗ Obtained good understanding of the components and use cases of Non-RT RIC and, effective testing methodologies.
+◦	Test Automation - API Automation Testing:
+∗ Developed a scalable and efficient test automation framework for API testing using Robot Framework and Python.
+∗ Developed test automation scripts in Robot Framework to comprehensively assess the APIs of the R1 interface, A1 interface, O1 and O2 interface, as well as Data Management Exposure (DME) within the realm of Non-RT RIC. These scripts were specifically designed to rigorously validate both positive and negative scenarios.
+∗ Developed several supporting functions in Python intended to seamlessly integrate with the Robot Framework.
+∗ Performed extensive integration testing, scale testing and system testing.
+∗ Devised scripts for generating mock data related to alarm and performance metrics.
+∗ Achieved a remarkable reduction in testing time, transitioning from multiple man-days to a matter of minutes.
+∗ Identified and raised multiple defects using JIRA and, ensured test coverage of at least 98% .
+∗ Created and tested the product in an extensive range of negative and abnormal test scenarios, effectively communicating the anticipated product behavior to ensure smooth and effective handling of such situations.
+
+•	Sterlite Technologies	Gurgaon
+Developer - Verification Engineering	August 2021 - December 2022
+◦	Feature Verification and Validation:
+∗ Performed manual testing of every feature of the pFTTx (Programmable Fiber To The X) product.
+∗ Identified as key resource in verifying and validating network statistics, Quality of Service (QoS) parameters, Actionable Policy feature.
+∗ Participated in designing test plans and test schedules for regression testing for every validation cycle of the product.
+∗ Co-ordinated with my team members to maintain at least 95 percentage test coverage.
+ 
+∗ Verified and Validated end-to-end physical hardware setup by checking the PPPoE session establishment in Spirent Traffic Generator.
+∗ Worked extensively on Layer 02 switches of Juniper, Delta to check interface status, VLAN mappings between xe and ge ports by using switch commands.
+∗ Examined the PADI, PADO packets using Wireshark for troubleshooting.
+∗ Gained good understanding of IEEE 802.1ad, IEEE 802.1Q
+◦	Software Development:
+∗ Led a team of 2 developers for the backend development of Diagnostics feature in the pFTTx (Programmable Fiber To The X) product.
+∗ Participated in API testing of the RESTful APIs through Python.
+∗ Developed Python scripts to parse highly complex JSON responses to extract information for OLT diagnostics, Subscriber diagnostics, ONU diagnostics.
+∗ Performed extensive unit and integration testing.
+∗ Delivered code-fixes for gaps identified in JSON responses of the RESTful APIs.
+◦	Automation:
+∗ Automated the periodic collection and parsing of logs, memory statistics, running process statistics of the OLT devices.
+∗ Developed Python scripts to login into the CLI of remote OLT devices by using SSH, Paramiko.
+∗ Logs, memory statistics, running process statistics are collected by executing commands in the ONL (Open Network Linux) environment of the OLT.
+∗ Collected logs are parsed to get the most recent information.
+∗ This feature helped in increasing the effectiveness of the product, by reducing manual efforts in log parsing.
+•	Broadridge Financial Solutions	Hyderabad
+Implementations Analyst (Full-time)	June 2016 - September 2017
+◦	Product Implementations:
+∗ Building prototype for desired reconciliation system and demonstrating proof of concept, building end to end transaction reconciliation system as per business requirements,client interaction and modifications of the reconciliation system
+∗ Used Microsoft SSIS to perform extraction, transformation and loading of data from huge text files into Microsoft SQL Server Database.
+∗ Worked extensively to develop SQL queries, stored procedures to query, modify and analyze the transactional and financial data.
+◦	Quality-Assurance & Testing:
+∗ Quality assurance encompassing deployment and testing, identification of bugs, performing root cause analysis, and orchestrating production deployment for a successful go-live.
+◦	Post go-live activities:
+∗ Daily runs of to be reconciled financial data, post reconciliation analysis, knowledge transfer and hand-over to support team.
+ACADEMIC PROJECTS
+•	Capturing variations in COVID-19 R0
+July 2020 - June 2021
+◦	The project is aimed at estimating the value of basic reproduction number R0 of COVID-19 and observe its variations in view of changing levels of Non-Pharmaceutical Interventions in the U.T Jammu & Kashmir.
+◦	A novel approach for parameter estimation of compartmental models using Genetic Algorithms & Meta-Heuristic Optimization techniques has been conceived and implemented from scratch in Python.
+◦	Gradient free approach for optimization is explored by using meta-heuristic optimization technique, Particle Swarm Optimization & genetic algorithm, Differential evolution.
+◦	The value of R0 was estimated and its variations were captured.
+◦	The project is aimed at fulfilling research gap as per Compositional cyber-physical epidemiology of COVID-19. Sci Rep 10, 19537 (2020). Authored by Ro, J.W., Allen, N., Ai, W. et al.
+◦	Research Project for Post-Graduate Thesis. Guided by Prof. Manoj Singh Gaur & Dr. Yamuna Prasad.
