@@ -29,7 +29,7 @@ def upload_file():
     
     if file:
         # Save the uploaded file
-        filepath = os.path.join(UPLOAD_FOLDER, file.filename)
+        filepath = os.path.join(UPLOAD_FOLDER, "input.pdf")
         file.save(filepath)
         
         # Process the PDF in a separate thread
@@ -43,14 +43,19 @@ def upload_file():
         return jsonify({'success': True, 'masked_pdf_url': masked_pdf_url})
 
 def process_pdf(filepath):
-    # Here you would implement the actual processing logic
     import shutil
     filename = os.path.basename(filepath)
-    processed_filepath = os.path.join(PROCESSED_FOLDER, filename)
+    processed_filepath = os.path.join(PROCESSED_FOLDER, "")
     
     # Simulate processing
     shutil.copy(filepath, processed_filepath)
     time.sleep(7)  # Simulate time delay for processing
+
+    # Simulate a do-while loop to keep checking if the file is processed
+    while True:
+        if os.path.exists(processed_filepath):
+            break
+        time.sleep(1)  # Check every second
 
 @app.route('/download/<filename>', methods=['GET'])
 def download_file(filename):
