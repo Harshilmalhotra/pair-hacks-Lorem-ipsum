@@ -38,25 +38,29 @@ Secure Docs is a powerful tool for safeguarding data privacy by masking sensitiv
  
   - <h3>Machine Learning Integration</h3>
         <p>Accurate identification and redaction of sensitive information using AI.</p>
-  
-📖 Use Case Scenarios
-1. Legal Document Redaction
-Problem: Legal firms need to redact sensitive client information from documents.
-Solution: Automatically detect and redact sensitive data, ensuring client confidentiality and compliance with legal standards.
 
-2. Healthcare Document Privacy
+---
+  
+## 📖 Use Case Scenarios
+
+**1. Legal Document Redaction**
+<br><br>
+      Problem: Legal firms need to redact sensitive client information from documents.
+      Solution: Automatically detect and redact sensitive data, ensuring client confidentiality and compliance with legal standards.
+
+**2. Healthcare Document Privacy** <br><br>
 Problem: Healthcare providers must protect patient information in medical records.
 Solution: Securely redact patient details to comply with HIPAA regulations and safeguard patient privacy.
 
-3. Financial Report Redaction
+**3. Financial Report Redaction** <br><br>
 Problem: Financial institutions need to redact confidential data from reports.
 Solution: Efficiently mask sensitive financial information, ensuring regulatory compliance and data security.
 
-4. Government Document Redaction
+**4. Government Document Redaction** <br><br>
 Problem: Government agencies handle classified information that requires secure redaction.
 Solution: Automatically redact classified details to maintain national security and comply with regulations.
 
-5. Educational Material Redaction
+**5. Educational Material Redaction** <br><br>
 Problem: Educational institutions need to protect student and faculty information.
 Solution: Securely redact personal data from academic documents, ensuring compliance with privacy laws.
 
@@ -68,7 +72,7 @@ Solution: Securely redact personal data from academic documents, ensuring compli
 - **🔥 PyTorch & Tensorflow:** Flexibility, GPU acceleration, simplicity, and rapid prototyping.
 - **🌐 Flask:** Building web frameworks and backend.
 - **🐍 Python:** Primary language for TensorFlow and PyTorch.
-- **☁️ Microsoft Azure:** Scalability with robust management tools.
+- **☁️ pyTesseract:** Tesseract optical character recognition (OCR) engine.
 - **🔗 Google Generative AI:** Advanced text similarity and AI model integration.
 - **🔒 Spacy:** Python library for advanced Natural Language Processing (NLP).
 - **⚛️ React & Tailwind CSS:** Popular framework and styling for building user interfaces.
@@ -76,7 +80,7 @@ Solution: Securely redact personal data from academic documents, ensuring compli
 ---
 
 
-🛠️ Installation
+## 🛠️ Installation
 
 ```
 git clone https://github.com/Harshilmalhotra/pair-hacks-Lorem-ipsum.git
@@ -85,17 +89,36 @@ git clone https://github.com/Harshilmalhotra/pair-hacks-Lorem-ipsum.git
 cd pair-hacks-Lorem-ipsum
 ```
 ```
+cd Backend
 pip install -r requirements.txt
 ```
+#### Backend (Run)
 ```
 python app.py
 ```
+#### Frontend (Installation)
+```
+cd ..
+cd  '.\Frontend React\'
+npm install
+```
 
-## Team Name: Lorem Ipsum
-## Team Members: 
+#### Frontend (Run)
+```
+npm run dev
+```
+
+##### A page will open in web-browser.
+##### (If page is not opening paste the following link in browser http://localhost:5173/ ) 
+
+### Now the app is ready to mask PDFs.
+
+---
+### 🎏 Team Name: Lorem Ipsum
+### 🧑🏻‍🦱 Team Members: 
 - **Harshil Malhotra**
 - **Harsh Arora**
-
+---
 
 🌍 Contributing
 We welcome contributions to improve Secure Docs! Feel free to open an issue or submit a pull request.
