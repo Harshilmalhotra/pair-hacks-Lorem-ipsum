@@ -1,10 +1,10 @@
-<h1 align="center">📜 SecurePDF - Protect Your Sensitive Information</h1>
+<h1 align="center">📜 Secure Docs - A PDF Data Masking App</h1>
  <!-- Replace with your actual logo URL -->
 
 
 <p align="center">
 🚀 
-SecurePDF is a powerful tool for safeguarding data privacy by masking sensitive information in PDFs. It handles both text and images, supports diverse names, and uses machine learning to accurately identify and redact sensitive data, ensuring comprehensive protection.
+Secure Docs is a powerful tool for safeguarding data privacy by masking sensitive information in PDFs. It handles both text and images, supports diverse names, and uses machine learning to accurately identify and redact sensitive data, ensuring comprehensive protection.
 </p>
 
 
@@ -12,13 +12,12 @@ SecurePDF is a powerful tool for safeguarding data privacy by masking sensitive 
 
 ## 📜 Table of Contents
 
-1. [Problem Statement](#problem-statement)
-2. [Solution](#solution)
-3. [Features](#features)
-4. [Technology Stack](#technology-stack)
-5. [Architecture](#architecture)
-6. [Business Relevance](#business-relevance)
-7. [Team](#team)
+1. Challenge Overview
+2. Key Features
+3. Use Case Scenarios
+4. Technology Stack
+5. Installation
+6. Team
 
 ---
 
@@ -66,12 +65,12 @@ Solution: Securely redact personal data from academic documents, ensuring compli
 
 ## 🛠️ Technology Stack
 
-- **🔒 PostgreSQL:** Advanced security features and data consistency.
+- **🔥 PyTorch & Tensorflow:** Flexibility, GPU acceleration, simplicity, and rapid prototyping.
 - **🌐 Flask:** Building web frameworks and backend.
 - **🐍 Python:** Primary language for TensorFlow and PyTorch.
 - **☁️ Microsoft Azure:** Scalability with robust management tools.
-- **🔗 Embedchain RAG Framework & Microsoft Azure OpenAI:** Advanced text similarity and AI model integration.
-- **🔥 PyTorch & Keras:** Flexibility, GPU acceleration, simplicity, and rapid prototyping.
+- **🔗 Google Generative AI:** Advanced text similarity and AI model integration.
+- **🔒 Spacy:** Python library for advanced Natural Language Processing (NLP).
 - **⚛️ React & Tailwind CSS:** Popular framework and styling for building user interfaces.
 
 ---
@@ -80,10 +79,10 @@ Solution: Securely redact personal data from academic documents, ensuring compli
 🛠️ Installation
 
 ```
-git clone https://github.com/yourusername/securepdf.git
+git clone https://github.com/Harshilmalhotra/pair-hacks-Lorem-ipsum.git
 ```
 ```
-cd securepdf
+cd pair-hacks-Lorem-ipsum
 ```
 ```
 pip install -r requirements.txt
@@ -92,20 +91,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-📊 Technology Stack
-Python
-TensorFlow (Machine Learning)
-OCR Libraries
-Flask (Web Framework)
-JavaScript, HTML, CSS (Frontend)
-💡 Future Enhancements
-Integration with cloud services (Google Drive, Dropbox)
-Enhanced OCR capabilities for better text recognition
-Mobile app version for on-the-go redaction
-API access for third-party integrations
-Real-time collaboration features
-
-
 ## Team Name: Lorem Ipsum
 ## Team Members: 
 - **Harshil Malhotra**
@@ -113,5 +98,5 @@ Real-time collaboration features
 
 
 🌍 Contributing
-We welcome contributions to improve SecurePDF! Feel free to open an issue or submit a pull request.
+We welcome contributions to improve Secure Docs! Feel free to open an issue or submit a pull request.
 
