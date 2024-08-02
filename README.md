@@ -13,12 +13,11 @@ Secure Docs is a powerful tool for safeguarding data privacy by masking sensitiv
 ## 📜 Table of Contents
 
 1. Challenge Overview
-2. [Solution]
-3. [Features]
-4. [Technology Stack]
-5. [Architecture]
-
-7. [Team](#team)
+2. Key Features
+3. Use Case Scenarios
+4. Technology Stack
+5. Installation
+6. Team
 
 ---
 
