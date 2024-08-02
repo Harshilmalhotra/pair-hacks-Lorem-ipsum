@@ -3,8 +3,8 @@
 
 
 <p align="center">
-🚀 Introduction
-SecurePDF is a robust application designed to ensure data privacy and security by masking sensitive information in PDF documents. Our solution handles both text and images within PDFs, accommodating diverse names across different demographics, including Malaysian, Chinese, and Korean names. Leveraging machine learning algorithms, SecurePDF accurately identifies and redacts sensitive information, providing comprehensive protection of personal data.
+🚀 
+SecurePDF is a powerful tool for safeguarding data privacy by masking sensitive information in PDFs. It handles both text and images, supports diverse names, and uses machine learning to accurately identify and redact sensitive data, ensuring comprehensive protection.
 </p>
 
 
