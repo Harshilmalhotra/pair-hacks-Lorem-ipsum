@@ -4,6 +4,8 @@ import os
 import time
 from urllib.parse import urljoin
 import threading
+import shutil
+import requests
 
 app = Flask(__name__)
 CORS(app)
@@ -42,14 +44,25 @@ def upload_file():
         
         return jsonify({'success': True, 'masked_pdf_url': masked_pdf_url})
 
+
+
 def process_pdf(filepath):
-    import shutil
+    """
+    Simulate processing of the PDF file and move it to the processed folder.
+    """
     filename = os.path.basename(filepath)
-    processed_filepath = os.path.join(PROCESSED_FOLDER, "")
+    processed_filepath = os.path.join(PROCESSED_FOLDER, filename)
     
-    # Simulate processing
-    shutil.copy(filepath, processed_filepath)
-    time.sleep(7)  # Simulate time delay for processing
+    # Send the PDF to the FastAPI endpoint
+    with open(filepath, 'rb') as f:
+        response = requests.post("http://localhost:8001/v1/start", files={"pdf": f})
+    
+    if response.status_code == 200:
+        # Save the processed PDF to the processed folder
+        with open(processed_filepath, 'wb') as f:
+            f.write(response.content)
+    else:
+        print(f"Failed to process PDF: {response.status_code}")
 
     # Simulate a do-while loop to keep checking if the file is processed
     while True:

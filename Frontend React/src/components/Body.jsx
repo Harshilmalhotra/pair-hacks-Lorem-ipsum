@@ -75,7 +75,7 @@ function Body({ isDarkMode }) {
   return (
     <div className={`flex justify-center items-center h-[585px] transition-colors duration-500 ${isDarkMode ? 'bg-gray-800 text-white' : 'bg-gray-100 text-gray-900'}`}>
       <div className={`p-6 rounded-lg shadow-lg text-center ${isDarkMode ? 'bg-gray-900' : 'bg-white'}`}>
-        <h1 className="text-3xl font-bold mb-4">{isDarkMode ? 'Dark Mode' : 'Light Mode'}</h1>
+        <h1 className="text-3xl font-bold mb-4">Secure Docs</h1>
         <p className="mb-6">Protect your sensitive information with our robust PDF masking solution</p>
         <div 
           className={`border-4 border-dashed rounded-lg p-6 ${dragging ? 'border-blue-700' : 'border-blue-500'} ${isDarkMode ? 'bg-gray-700' : 'bg-blue-50'}`}
