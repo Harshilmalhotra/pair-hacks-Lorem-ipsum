@@ -1,0 +1,26 @@
+.icon-enter {
+    opacity: 0;
+    transform: rotate(-90deg);
+  }
+  
+  .icon-enter-active {
+    opacity: 1;
+    transform: rotate(0deg);
+    transition: opacity 300ms, transform 300ms;
+  }
+  
+  .icon-exit {
+    opacity: 1;
+    transform: rotate(0deg);
+  }
+  
+  .icon-exit-active {
+    opacity: 0;
+    transform: rotate(90deg);
+    transition: opacity 300ms, transform 300ms;
+  }
+  
+  .icon {
+    transition: color 300ms;
+  }
+  
