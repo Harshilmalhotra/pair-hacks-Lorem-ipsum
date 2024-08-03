@@ -52,15 +52,11 @@ Secure Docs is a powerful tool for safeguarding data privacy by masking sensitiv
 Problem: Healthcare providers must protect patient information in medical records.
 Solution: Securely redact patient details to comply with HIPAA regulations and safeguard patient privacy.
 
-**3. Financial Report Redaction** <br><br>
-Problem: Financial institutions need to redact confidential data from reports.
-Solution: Efficiently mask sensitive financial information, ensuring regulatory compliance and data security.
-
-**4. Government Document Redaction** <br><br>
+**3. Government Document Redaction** <br><br>
 Problem: Government agencies handle classified information that requires secure redaction.
 Solution: Automatically redact classified details to maintain national security and comply with regulations.
 
-**5. Educational Material Redaction** <br><br>
+**4. Educational Material Redaction** <br><br>
 Problem: Educational institutions need to protect student and faculty information.
 Solution: Securely redact personal data from academic documents, ensuring compliance with privacy laws.
 
